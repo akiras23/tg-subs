@@ -43,10 +43,10 @@ Dialogue: 0,0:01:02.74,0:01:07.58,Default,,0,0,0,,We could well set a record as 
 Dialogue: 0,0:01:07.58,0:01:12.20,Default,,0,0,0,,Yeah, but that's then, this is now,\Nand we're kicking off tonight
 Dialogue: 0,0:01:12.20,0:01:14.34,Default,,0,0,0,,with the latest single\Nfrom Lethal Bizzle.
 Dialogue: 0,0:01:13.46,0:01:16.78,Music,,0,0,0,,♪ "Mr."\NLethal Bizzle
-Dialogue: 0,0:01:20.62,0:01:22.86,Default,,0,0,0,,♪ {\i1}Yeah, it's me for the Bizzle records{\i0} ♪
-Dialogue: 0,0:01:23.38,0:01:24.78,Default,,0,0,0,,♪ {\i1}It's Back to Bizznizz{\i0} ♪
-Dialogue: 0,0:01:25.10,0:01:26.78,Default,,0,0,0,,Fire Camp!
-Dialogue: 0,0:01:26.78,0:01:29.94,Default,,0,0,0,,♪ {\i1}It's Lethal the Bizzle records ♪\N♪ It's, it's Lethal the Bizzle records{\i0} ♪
+Dialogue: 0,0:01:20.62,0:01:22.86,Default,,0,0,0,,♪ {\i1}Yeah, it's Lethal the Bizzle records{\i0} ♪
+Dialogue: 0,0:01:23.38,0:01:24.78,Default,,0,0,0,,♪ It{\i1}'s Back to Bizznizz{\i0} ♪
+Dialogue: 0,0:01:25.10,0:01:26.78,Default,,0,0,0,,♪ Fire Camp! ♪
+Dialogue: 0,0:01:26.78,0:01:29.94,Default,,0,0,0,,♪ It{\i1}'s Lethal the Bizzle records ♪\N♪ It's, it's Lethal the Bizzle records{\i0} ♪
 Dialogue: 0,0:01:29.94,0:01:31.94,Default,,0,0,0,,♪ {\i1}It's, it's Lethal the Bizzle records{\i0} ♪
 Dialogue: 0,0:01:32.64,0:01:35.04,Default,,0,0,0,,What the fuck is this?
 Dialogue: 0,0:01:35.10,0:01:37.62,Default,,0,0,0,,I think Hammond put him\Non at the wrong speed!
@@ -139,7 +139,7 @@ Dialogue: 0,0:04:45.36,0:04:49.48,Default,,0,0,0,,{\i1}Concern is growing for a 
 Dialogue: 0,0:04:50.02,0:04:53.26,Default,,0,0,0,,{\i1}Christy Jay Mahoney\Ndisappeared last Friday night{\i0}
 Dialogue: 0,0:04:53.32,0:04:55.34,Default,,0,0,0,,{\i0}- Every day I used to think,\Nis she going to come home?{\i1}
 Dialogue: 0,0:04:55.62,0:04:57.22,Default,,0,0,0,,Will she come back in one piece?
-Dialogue: 0,0:04:57.72,0:04:59.36,Default,,0,0,0,,Is she going to go back in a black bag?
+Dialogue: 0,0:04:57.72,0:04:59.36,Default,,0,0,0,,Is she going to come back in a black bag?
 Dialogue: 0,0:05:02.26,0:05:06.32,Default,,0,0,0,,My initial first step, get posters\Nsplattered around Milton Keynes,
 Dialogue: 0,0:05:06.84,0:05:10.56,Default,,0,0,0,,bus stops, buses, up the city centre.
 Dialogue: 0,0:05:12.64,0:05:15.54,Default,,0,0,0,,At the end of the day, it was just a\Ncase of just
@@ -266,7 +266,7 @@ Dialogue: 0,0:10:23.86,0:10:25.10,Default,,0,0,0,,You know hospital radio?
 Dialogue: 0,0:10:25.10,0:10:25.90,Default,,0,0,0,,Yes.
 Dialogue: 0,0:10:26.02,0:10:27.22,Default,,0,0,0,,Well, I don't, you would.
 Dialogue: 0,0:10:27.22,0:10:27.78,Default,,0,0,0,,All right.
-Dialogue: 0,0:10:27.78,0:10:30.06,Default,,0,0,0,,...with your past in local radio DJing.
+Dialogue: 0,0:10:27.78,0:10:30.06,Default,,0,0,0,,..with your past in local radio DJing.
 Dialogue: 0,0:10:30.06,0:10:31.86,Default,,0,0,0,,Well, a lot of DJs started there, it's relevant.
 Dialogue: 0,0:10:31.90,0:10:34.06,Default,,0,0,0,,Well, I've been thinking of a list of songs
 Dialogue: 0,0:10:34.06,0:10:37.62,Default,,0,0,0,,that they can't play\Non your hospital radio.
@@ -416,10 +416,9 @@ Dialogue: 0,0:18:23.38,0:18:26.22,Default,,0,0,0,,Cascada, with "Miracle".\NTwo 
 Dialogue: 0,0:18:26.62,0:18:27.62,Default,,0,0,0,,Yes!
 Dialogue: 0,0:18:28.98,0:18:29.94,Default,,0,0,0,,Right.
 Dialogue: 0,0:18:32.18,0:18:35.98,Default,,0,0,0,,Okay, time for another reminder\Nof why we're actually here.
-Dialogue: 0,0:18:45.21,0:18:50.17,Default,,0,0,0,,Remember Somaliland, I took you on a\Nnightmare trip once there, to Hargesa
+Dialogue: 0,0:18:45.21,0:18:50.17,Default,,0,0,0,,Remember Somaliland, I took you on a\Nnightmare trip once there, to Hargeisa
 Dialogue: 0,0:18:50.17,0:18:55.05,Default,,0,0,0,,Hospital, a hospital with no drugs, no\Nsurgical instruments, no sterile equipment.
-Dialogue: 0,0:18:55.47,0:19:00.23,Default,,0,0,0,,It was 2003, but you'd think I'd stepped\Ninto a Victorian horror film.
-Dialogue: 0,0:19:00.23,0:19:00.49,Default,,0,0,0,,This is our story.
+Dialogue: 0,0:18:55.47,0:19:00.49,Default,,0,0,0,,It was 2003, but you'd think I'd stepped\Ninto a Victorian horror story.
 Dialogue: 0,0:19:01.37,0:19:03.25,Default,,0,0,0,,I'd never seen anything like it.
 Dialogue: 0,0:19:03.29,0:19:05.15,Default,,0,0,0,,People were turned away because there was\Nno drugs.
 Dialogue: 0,0:19:05.21,0:19:07.51,Default,,0,0,0,,People were turned away from the hospital\Nbecause they had no money.
@@ -448,7 +447,7 @@ Dialogue: 0,0:20:11.39,0:20:12.85,Default,,0,0,0,,Isn't that the best?
 Dialogue: 0,0:20:13.21,0:20:18.81,Default,,0,0,0,,To see the ambulance all shiny with Comic Relief\Non the side and the old siren going there.
 Dialogue: 0,0:20:19.07,0:20:21.57,Default,,0,0,0,,Your money bought them a new ambulance.
 Dialogue: 0,0:20:21.97,0:20:24.61,Default,,0,0,0,,The difference is absolutely staggering.
-Dialogue: 0,0:20:24.61,0:20:26.59,Default,,0,0,0,,And I'm blown sideways by this.
+Dialogue: 0,0:20:24.61,0:20:26.59,Default,,0,0,0,,I'm blown sideways by this.
 Dialogue: 0,0:20:27.51,0:20:29.83,Default,,0,0,0,,Now the wards look a little more familiar.
 Dialogue: 0,0:20:32.37,0:20:35.01,Default,,0,0,0,,They're still in desperate need of some\Nserious attention.
 Dialogue: 0,0:20:40.53,0:20:43.95,Default,,0,0,0,,It's just overwhelming to see all you've\Ndone for this hospital.
