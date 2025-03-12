@@ -44,11 +44,11 @@ Dialogue: 0,0:01:07.58,0:01:12.20,Default,,0,0,0,,Yeah, but that's then, this is
 Dialogue: 0,0:01:12.20,0:01:14.34,Default,,0,0,0,,with the latest single\Nfrom Lethal Bizzle.
 Dialogue: 0,0:01:13.46,0:01:16.78,Music,,0,0,0,,♪ "Mr."\NLethal Bizzle
 Dialogue: 0,0:01:20.62,0:01:22.86,Default,,0,0,0,,♪ {\i1}Yeah, it's me for the Bizzle records{\i0} ♪
-Dialogue: 0,0:01:23.38,0:01:24.78,Default,,0,0,0,,♪ It{\i1}'s B for Business{\i0} ♪
-Dialogue: 0,0:01:25.10,0:01:26.78,Default,,0,0,0,,Fire cannon!
-Dialogue: 0,0:01:26.78,0:01:29.94,Default,,0,0,0,,♪ It{\i1}'s me for the Bizzle records ♪\N♪ It's, it's me for the Bizzle records{\i0} ♪
-Dialogue: 0,0:01:29.94,0:01:31.94,Default,,0,0,0,,♪ {\i1}It's, it's me for the Bizzle records{\i0} ♪
-Dialogue: 0,0:01:32.64,0:01:35.04,Default,,0,0,0,,Who the fuck is this?
+Dialogue: 0,0:01:23.38,0:01:24.78,Default,,0,0,0,,♪ {\i1}It's Back to Bizznizz{\i0} ♪
+Dialogue: 0,0:01:25.10,0:01:26.78,Default,,0,0,0,,Fire Camp!
+Dialogue: 0,0:01:26.78,0:01:29.94,Default,,0,0,0,,♪ {\i1}It's Lethal the Bizzle records ♪\N♪ It's, it's Lethal the Bizzle records{\i0} ♪
+Dialogue: 0,0:01:29.94,0:01:31.94,Default,,0,0,0,,♪ {\i1}It's, it's Lethal the Bizzle records{\i0} ♪
+Dialogue: 0,0:01:32.64,0:01:35.04,Default,,0,0,0,,What the fuck is this?
 Dialogue: 0,0:01:35.10,0:01:37.62,Default,,0,0,0,,I think Hammond put him\Non at the wrong speed!
 Dialogue: 0,0:01:37.86,0:01:40.22,Default,,0,0,0,,{\i1}♪ Imma take your girlfriend\Nand F your sister, mister ♪{\i0}
 Dialogue: 0,0:01:40.22,0:01:41.94,Default,,0,0,0,,{\i1}♪ You don't wanna play ♪\N♪ Mister, nah ♪{\i0}
@@ -85,7 +85,7 @@ Dialogue: 0,0:02:42.39,0:02:46.54,Default,,0,0,0,,Yeah, we're going to ask them\
 Dialogue: 0,0:02:46.54,0:02:48.67,Default,,0,0,0,,and then perform it\Nat the end of the show.
 Dialogue: 0,0:02:49.22,0:02:53.54,Default,,0,0,0,,Yeah, and this sort of thing\Nwill require excellent songwriting skills,
 Dialogue: 0,0:02:53.54,0:02:55.98,Default,,0,0,0,,superb musicianship, so\Nwould you please welcome,
-Dialogue: 0,0:02:55.98,0:02:59.78,Default,,0,0,0,,ladies and gentlemen, Merc Fly!
+Dialogue: 0,0:02:55.98,0:02:59.78,Default,,0,0,0,,ladies and gentlemen, Mc... Fly!
 Dialogue: 0,0:03:04.78,0:03:05.54,Default,,0,0,0,,Hello!
 Dialogue: 0,0:03:06.10,0:03:06.78,Default,,0,0,0,,Hello.
 Dialogue: 0,0:03:07.64,0:03:09.54,Default,,0,0,0,,Welcome to Top Gear of the Pops.
@@ -112,7 +112,7 @@ Dialogue: 0,0:03:53.58,0:03:55.06,Default,,0,0,0,,But there's more.
 Dialogue: 0,0:03:55.50,0:03:57.78,Default,,0,0,0,,Because there are three words\Nthat you must use.
 Dialogue: 0,0:03:57.90,0:03:59.40,Default,,0,0,0,,And they are...
 Dialogue: 0,0:03:59.54,0:04:00.54,Default,,0,0,0,,Sofa.
-Dialogue: 0,0:04:01.58,0:04:02.46,Default,,0,0,0,,Sofa.
+Dialogue: 0,0:04:01.58,0:04:02.46,Default,,0,0,0,,Sofa?
 Dialogue: 0,0:04:02.58,0:04:03.82,Default,,0,0,0,,Administration.
 Dialogue: 0,0:04:05.74,0:04:06.90,Default,,0,0,0,,And Hyundai.
 Dialogue: 0,0:04:08.70,0:04:09.54,Default,,0,0,0,,What do you think?
@@ -142,12 +142,12 @@ Dialogue: 0,0:04:55.62,0:04:57.22,Default,,0,0,0,,Will she come back in one piec
 Dialogue: 0,0:04:57.72,0:04:59.36,Default,,0,0,0,,Is she going to go back in a black bag?
 Dialogue: 0,0:05:02.26,0:05:06.32,Default,,0,0,0,,My initial first step, get posters\Nsplattered around Milton Keynes,
 Dialogue: 0,0:05:06.84,0:05:10.56,Default,,0,0,0,,bus stops, buses, up the city centre.
-Dialogue: 0,0:05:12.64,0:05:15.54,Default,,0,0,0,,At the end of the day, it was just the\Ncase of just drinking.
-Dialogue: 0,0:05:15.54,0:05:17.42,Default,,0,0,0,,I'm trying to find my daughter.
+Dialogue: 0,0:05:12.64,0:05:15.54,Default,,0,0,0,,At the end of the day, it was just a\Ncase of just
+Dialogue: 0,0:05:15.54,0:05:17.42,Default,,0,0,0,,trying to find my daughter.
 Dialogue: 0,0:05:18.08,0:05:22.12,Default,,0,0,0,,{\i1}Children who run away can find it hard to\Nring home for all sorts of reasons.{\i0}
 Dialogue: 0,0:05:22.38,0:05:24.62,Default,,0,0,0,,{\i1}But they are in real danger.{\i0}
 Dialogue: 0,0:05:24.70,0:05:26.96,Default,,0,0,0,,{\i1}That's why the Runaway Helpline\N has been set up.{\i0}
-Dialogue: 0,0:05:27.18,0:05:31.52,Default,,0,0,0,,{\i1}It's for under 18, it's confidential, and\Nthe operators understand what both{\i0}
+Dialogue: 0,0:05:27.18,0:05:31.52,Default,,0,0,0,,{\i1}It's for under 18s, it's confidential, and\Nthe operators understand what both{\i0}
 Dialogue: 0,0:05:31.52,0:05:33.32,Default,,0,0,0,,{\i1}children and parents are going through.{\i0}
 Dialogue: 0,0:05:34.12,0:05:35.38,Default,,0,0,0,,Can you tell me what happened?
 Dialogue: 0,0:05:35.40,0:05:36.30,Default,,0,0,0,,Why you left?
@@ -189,7 +189,7 @@ Dialogue: 0,0:07:35.06,0:07:38.54,Default,,0,0,0,,Everybody under 140 years old\
 Dialogue: 0,0:07:38.54,0:07:39.50,Default,,0,0,0,,- They are everywhere.
 Dialogue: 0,0:07:39.50,0:07:42.78,Default,,0,0,0,,- You've got to remember that the car\Nindustry took 50 years to work out
 Dialogue: 0,0:07:42.78,0:07:45.54,Default,,0,0,0,,that a little light needed to\Ncome on when you opened the door.
-Dialogue: 0,0:07:45.74,0:07:47.10,Default,,0,0,0,,So I wouldn't want to depress.
+Dialogue: 0,0:07:45.74,0:07:47.10,Default,,0,0,0,,So I wouldn't hold your breath.
 Dialogue: 0,0:07:47.12,0:07:48.34,Default,,0,0,0,,Anyway, okay, right, listen.
 Dialogue: 0,0:07:48.34,0:07:51.14,Default,,0,0,0,,Can I just make a plea\Nto the makers of iPods?
 Dialogue: 0,0:07:51.18,0:07:53.30,Default,,0,0,0,,You know the wire thing, okay?
@@ -200,7 +200,7 @@ Dialogue: 0,0:07:59.74,0:08:00.70,Default,,0,0,0,,- Yeah. \N - I'm right.
 Dialogue: 0,0:08:01.14,0:08:02.10,Default,,0,0,0,,I've ended up...
 Dialogue: 0,0:08:02.10,0:08:03.66,Default,,0,0,0,,If you put your iPod on,\NI get the things...
 Dialogue: 0,0:08:05.12,0:08:06.54,Default,,0,0,0,,It's just two huge knots.
-Dialogue: 0,0:08:06.54,0:08:08.38,Default,,0,0,0,,I know exactly what\Nyou mean. It's immaculate.
+Dialogue: 0,0:08:06.54,0:08:08.38,Default,,0,0,0,,I know exactly what\Nyou mean. It's immaculately neat.
 Dialogue: 0,0:08:08.50,0:08:10.72,Default,,0,0,0,,You pull it out of your pocket\Nand you'll never undo it.
 Dialogue: 0,0:08:10.76,0:08:12.54,Default,,0,0,0,,It's got one of your\Ntesticles tied up in it.
 Dialogue: 0,0:08:15.42,0:08:18.22,Default,,0,0,0,,Listen, I've got a story\Nhere about Coldplay.
@@ -229,7 +229,7 @@ Dialogue: 0,0:09:10.38,0:09:11.70,Default,,0,0,0,,I have to say, my dad...
 Dialogue: 0,0:09:11.70,0:09:14.06,Default,,0,0,0,,My favourite one my dad did\Nwatching Top Of The Pops was...
 Dialogue: 0,0:09:14.22,0:09:15.02,Default,,0,0,0,,What's his name?
 Dialogue: 0,0:09:15.02,0:09:17.26,Default,,0,0,0,,Billy Idol came on to do "White Wedding",\Nand he just looked and he went...
-Dialogue: 0,0:09:17.26,0:09:19.48,Default,,0,0,0,,He had a thought going on telly,\Nhe'd have put a shirt on.
+Dialogue: 0,0:09:17.26,0:09:19.48,Default,,0,0,0,,"He had a thought going on telly,\Nhe'd have put a shirt on."
 Dialogue: 0,0:09:21.22,0:09:22.46,Default,,0,0,0,,That's what you sound like.
 Dialogue: 0,0:09:22.48,0:09:26.30,Default,,0,0,0,,Oh, no, but I have to say, most festivals\Nthese days, I think, are getting a lot better.
 Dialogue: 0,0:09:26.38,0:09:28.14,Default,,0,0,0,,I'm going to Glastonbury this year.
@@ -238,7 +238,7 @@ Dialogue: 0,0:09:29.58,0:09:31.82,Default,,0,0,0,,in a Range Rover\Nwith a posh 
 Dialogue: 0,0:09:31.90,0:09:32.62,Default,,0,0,0,,No.
 Dialogue: 0,0:09:33.90,0:09:35.50,Default,,0,0,0,,No, I'm going in a helicopter.
 Dialogue: 0,0:09:35.62,0:09:36.78,Default,,0,0,0,,Oh, for crying out loud.
-Dialogue: 0,0:09:36.86,0:09:38.50,Default,,0,0,0,,Our very, very festival.
+Dialogue: 0,0:09:36.86,0:09:38.50,Default,,0,0,0,,How very, very festival.
 Dialogue: 0,0:09:38.54,0:09:40.70,Default,,0,0,0,,But, no, we're going to land\Nduring the Arctic Monkeys,
 Dialogue: 0,0:09:40.70,0:09:42.26,Default,,0,0,0,,and that'll improve it for everybody else.
 Dialogue: 0,0:09:43.84,0:09:46.54,Default,,0,0,0,,Now, here's a musical\Nfigure, Phil Spector,
@@ -262,14 +262,14 @@ Dialogue: 0,0:10:19.06,0:10:20.98,Default,,0,0,0,,Lists, that's kind of appropri
 Dialogue: 0,0:10:21.02,0:10:21.94,Default,,0,0,0,,Of records and things.
 Dialogue: 0,0:10:21.98,0:10:22.70,Default,,0,0,0,,I love a list.
 Dialogue: 0,0:10:22.84,0:10:23.86,Default,,0,0,0,,Right, well, a subject.
-Dialogue: 0,0:10:23.86,0:10:25.10,Default,,0,0,0,,You know Hospital Radio?
+Dialogue: 0,0:10:23.86,0:10:25.10,Default,,0,0,0,,You know hospital radio?
 Dialogue: 0,0:10:25.10,0:10:25.90,Default,,0,0,0,,Yes.
 Dialogue: 0,0:10:26.02,0:10:27.22,Default,,0,0,0,,Well, I don't, you would.
 Dialogue: 0,0:10:27.22,0:10:27.78,Default,,0,0,0,,All right.
-Dialogue: 0,0:10:27.78,0:10:30.06,Default,,0,0,0,,"I passed in local radio DJing".
-Dialogue: 0,0:10:30.06,0:10:31.86,Default,,0,0,0,,Well, a DJ started there, it's relevant.
+Dialogue: 0,0:10:27.78,0:10:30.06,Default,,0,0,0,,...with your past in local radio DJing.
+Dialogue: 0,0:10:30.06,0:10:31.86,Default,,0,0,0,,Well, a lot of DJs started there, it's relevant.
 Dialogue: 0,0:10:31.90,0:10:34.06,Default,,0,0,0,,Well, I've been thinking of a list of songs
-Dialogue: 0,0:10:34.06,0:10:37.62,Default,,0,0,0,,that they can't play\Non your Hospital Radio.
+Dialogue: 0,0:10:34.06,0:10:37.62,Default,,0,0,0,,that they can't play\Non your hospital radio.
 Dialogue: 0,0:10:38.18,0:10:40.54,Default,,0,0,0,,Number one:\NThe Verve, "Drugs Don't Work".
 Dialogue: 0,0:10:40.98,0:10:43.06,Default,,0,0,0,,- That'd be difficult to listen to.\N- Sure, you can't play that.
 Dialogue: 0,0:10:43.10,0:10:44.54,Default,,0,0,0,,What about Cutting Crew,
