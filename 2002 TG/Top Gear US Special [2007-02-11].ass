@@ -18,14 +18,14 @@ Style: Music,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:17.65,0:00:19.65,Default,,0,0,0,,[CHEERING AND APPLAUSE]
 Dialogue: 0,0:00:20.51,0:00:21.91,Default,,0,0,0,,Thank you, thank you.
-Dialogue: 0,0:00:22.57,0:00:27.96,Default,,0,0,0,,Hello and welcome to what is\Ntonight's A Top Gear Special.
+Dialogue: 0,0:00:22.57,0:00:27.96,Default,,0,0,0,,Hello and welcome to what is\Ntonight, a Top Gear Special.
 Dialogue: 0,0:00:27.96,0:00:30.96,Default,,0,0,0,,It's special because it is just one big film.
 Dialogue: 0,0:00:31.16,0:00:33.47,Default,,0,0,0,,Yep, and to make it, we had to go on holiday.
 Dialogue: 0,0:00:33.61,0:00:36.96,Default,,0,0,0,,Well, you say it was a holiday,\Nbut actually it was a fly-drive holiday.
 Dialogue: 0,0:00:36.96,0:00:40.27,Default,,0,0,0,,So it wasn't a holiday at all, because,\Nof course, you get to the car hire desk
 Dialogue: 0,0:00:40.45,0:00:42.96,Default,,0,0,0,,and there's the gormless\Nman with the spiky hair,
 Dialogue: 0,0:00:42.96,0:00:45.96,Default,,0,0,0,,and he types "War and Peace"\Ninto his computer for 16 hours,
-Dialogue: 0,0:00:45.96,0:00:49.96,Default,,0,0,0,,and then he doesn't know where England is,\Nand he steals your driving license,
+Dialogue: 0,0:00:45.96,0:00:49.96,Default,,0,0,0,,and then he doesn't know where England is,\Nand he steals your driving licence,
 Dialogue: 0,0:00:49.96,0:00:52.96,Default,,0,0,0,,and then he directs you to a car park\Nwhere your car isn't.
 Dialogue: 0,0:00:53.51,0:00:56.73,Default,,0,0,0,,So we were going to try and see\Nif we could make it any better.
 Dialogue: 0,0:00:56.89,0:01:01.45,Default,,0,0,0,,Rather than suffer the misery of hiring\Na car, maybe it made more sense to buy one.
@@ -37,10 +37,10 @@ Dialogue: 0,0:01:14.35,0:01:17.55,Default,,0,0,0,,we could sell our cars and\Nge
 Dialogue: 0,0:01:18.01,0:01:21.96,Default,,0,0,0,,It was brilliant. Now, in the holiday,\Nwe had stones thrown at us by rednecks.
 Dialogue: 0,0:01:21.96,0:01:24.17,Default,,0,0,0,,We crashed into a river full of alligators.
 Dialogue: 0,0:01:24.41,0:01:26.96,Default,,0,0,0,,What else happened?\NWe had to eat a squirrel.
-Dialogue: 0,0:01:27.53,0:01:29.95,Default,,0,0,0,,Anyway, the big challenge was,
-Dialogue: 0,0:01:29.99,0:01:34.96,Default,,0,0,0,,could we buy a car for less than\Nit cost to rent one for a fortnight?
+Dialogue: 0,0:01:27.53,0:01:29.95,Default,,0,0,0,,Anyway, the big challenge was:
+Dialogue: 0,0:01:29.99,0:01:34.96,Default,,0,0,0,,Could we buy a car for less than\Nit cost to rent one for a fortnight?
 Dialogue: 0,0:01:35.14,0:01:36.35,Default,,0,0,0,,Let's find out!
-Dialogue: 0,0:01:38.33,0:01:40.96,Default,,0,0,0,,{\i1\pos(1000,124)}Miami, are we sunny?\N34 degrees.{\i0}
+Dialogue: 0,0:01:38.33,0:01:40.96,Default,,0,0,0,,{\i1\pos(1000,124)}Miami, partly sunny\N84 degrees.{\i0}
 Dialogue: 0,0:01:40.65,0:01:44.65,Music,,0,0,0,,{\fad(300,500)}♪ "Sinnerman (Felix Da Housecat's Heavenly House Mix)"\NNina Simone
 Dialogue: 0,0:01:44.65,0:01:48.31,Default,,0,0,0,,CLARKSON: {\i1}Yes, Miami, home to\Nall the most successful drug dealers,{\i0}
 Dialogue: 0,0:01:48.96,0:01:50.93,Default,,0,0,0,,{\i1}this year's Mr Big Mac,{\i0}
@@ -56,7 +56,7 @@ Dialogue: 0,0:02:21.96,0:02:26.96,Default,,0,0,0,,{\i1}- I wanted a muscle car, 
 Dialogue: 0,0:02:27.17,0:02:29.57,Default,,0,0,0,,Have you got the keys?\NThank you.
 Dialogue: 0,0:02:33.29,0:02:36.96,Default,,0,0,0,,400 horsepower, a 5.7-litre V8.
 Dialogue: 0,0:02:39.57,0:02:40.96,Default,,0,0,0,,OK, how much is it?
-Dialogue: 0,0:02:41.29,0:02:42.96,Default,,0,0,0,,$ 64,815.
+Dialogue: 0,0:02:41.29,0:02:42.96,Default,,0,0,0,,$64,815.
 Dialogue: 0,0:02:47.05,0:02:48.85,Default,,0,0,0,,64...
 Dialogue: 0,0:02:48.85,0:02:50.31,Default,,0,0,0,,- 815.
 Dialogue: 0,0:02:50.31,0:02:51.96,Default,,0,0,0,,- Thousand dollars?\N-Yeah.
@@ -66,22 +66,22 @@ Dialogue: 0,0:03:03.43,0:03:06.75,Default,,0,0,0,,{\i1}Richard, it seems,\Nwas b
 Dialogue: 0,0:03:10.05,0:03:12.96,Default,,0,0,0,,- How much is this? \N- $89,900.
 Dialogue: 0,0:03:12.96,0:03:15.33,Default,,0,0,0,,I need something a bit less than that.
 Dialogue: 0,0:03:15.33,0:03:17.39,Default,,0,0,0,,- A little bit less than that? \N- Less than that.
-Dialogue: 0,0:03:17.85,0:03:22.41,Default,,0,0,0,,- So how much for a Cuda?\N- Cudas are anywhere from 35 to 200,000.
+Dialogue: 0,0:03:17.85,0:03:22.41,Default,,0,0,0,,- So how much for a Cougar?\N- Cougars are anywhere from 35 to 200,000.
 Dialogue: 0,0:03:23.05,0:03:25.59,Default,,0,0,0,,- Yeah...\N- Depending upon the condition and so on.
 Dialogue: 0,0:03:26.19,0:03:28.96,Default,,0,0,0,,I need something\Nthat's a bit less than that.
 Dialogue: 0,0:03:28.96,0:03:29.96,Default,,0,0,0,,A bit less than that?
-Dialogue: 0,0:03:30.35,0:03:33.57,Default,,0,0,0,,- How much for Challenger?\N- Challengers start at $ 20,000.
+Dialogue: 0,0:03:30.35,0:03:33.57,Default,,0,0,0,,- How much for a Challenger?\N- Challengers start at $20,000.
 Dialogue: 0,0:03:33.75,0:03:35.69,Default,,0,0,0,,- $19,900.\N- Less than that.
 Dialogue: 0,0:03:35.77,0:03:37.59,Default,,0,0,0,,- Less than that?\N- Less than that.
 Dialogue: 0,0:03:39.23,0:03:41.96,Default,,0,0,0,,See this here?\NLook, he's turning right on a red light.
 Dialogue: 0,0:03:41.96,0:03:45.15,Default,,0,0,0,,That is America's only\Ncontribution to Western civilization.
 Dialogue: 0,0:03:45.35,0:03:47.96,Default,,0,0,0,,{\i1\pos(964,688)}There's never been a better\Ntime to buy a Johnson...{\i0}
 Dialogue: 0,0:03:47.96,0:03:51.96,Default,,0,0,0,,{\pos(862,702)}MAY: {\i1}I was the only one using\Neven a modicum of common sense.{\i0}
-Dialogue: 0,0:03:52.11,0:03:53.96,Default,,0,0,0,,{\pos(878,664)}Would you take $ 1,000 for this?
+Dialogue: 0,0:03:52.11,0:03:53.96,Default,,0,0,0,,{\pos(878,664)}Would you take $1,000 for this?
 Dialogue: 0,0:03:54.45,0:03:57.33,Default,,0,0,0,,- OK, now, that's going\Nto be a little bit difficult.
 Dialogue: 0,0:03:59.87,0:04:03.19,Default,,0,0,0,,CLARKSON: {\i1}Soon I took a leaf out\Nof James's book, lowered my sights{\i0}
 Dialogue: 0,0:04:03.29,0:04:07.37,Default,,0,0,0,,{\i1}and quickly found a tidy Camaro\N at a place called Adolf's.{\i0}
-Dialogue: 0,0:04:08.89,0:04:12.96,Default,,0,0,0,,$2,900, this. It's a big ask\Nto get him down to 1,000.
+Dialogue: 0,0:04:08.89,0:04:12.96,Default,,0,0,0,,$2,900, this. It's a big ask\Nto get him down to $1,000.
 Dialogue: 0,0:04:13.79,0:04:15.29,Default,,0,0,0,,Might offer him a burger.
 Dialogue: 0,0:04:18.23,0:04:20.33,Default,,0,0,0,,Very popular with murderers, these cars.
 Dialogue: 0,0:04:20.47,0:04:21.05,Default,,0,0,0,,- Yeah.
@@ -109,7 +109,7 @@ Dialogue: 0,0:05:18.81,0:05:21.96,Default,,0,0,0,,sort of fantastic old American
 Dialogue: 0,0:05:22.27,0:05:27.77,Default,,0,0,0,,- I did, I did. I thought we'd just be tripping\Nover Oldsmobile Cutlasses and Firebirds.
 Dialogue: 0,0:05:27.85,0:05:28.57,Default,,0,0,0,,- Yeah.
 Dialogue: 0,0:05:28.71,0:05:32.23,Default,,0,0,0,,- It's cause we're buying in that '90s period\Nwhen they were just making rubbish.
-Dialogue: 0,0:05:32.31,0:05:33.96,Default,,0,0,0,,I mean, I'm looking at a Buick La Sabre.
+Dialogue: 0,0:05:32.31,0:05:33.96,Default,,0,0,0,,I mean, I'm looking at a Buick Le Sabre.
 Dialogue: 0,0:05:33.96,0:05:34.96,Default,,0,0,0,,- God, don't.
 Dialogue: 0,0:05:35.17,0:05:37.96,Default,,0,0,0,,- It was rubbish when it was\Nnew, it was built by idiots
 Dialogue: 0,0:05:37.96,0:05:41.25,Default,,0,0,0,,and it's rubbish now. I've got...\NYou know, we've got one hour left.
@@ -143,7 +143,7 @@ Dialogue: 0,0:06:48.96,0:06:54.96,Default,,0,0,0,,You saw the movie John Wayne, 
 Dialogue: 0,0:06:54.96,0:06:56.96,Default,,0,0,0,,And you shoot him right there.
 Dialogue: 0,0:07:00.55,0:07:01.63,Default,,0,0,0,,{\i1}- Hammond.{\i0}
 Dialogue: 0,0:07:01.75,0:07:02.96,Default,,0,0,0,,Yes, Jeremy, how you doing?
-Dialogue: 0,0:07:02.96,0:07:06.37,Default,,0,0,0,,Just been told by my new\Nbest friend, Robert, the Persian,
+Dialogue: 0,0:07:02.96,0:07:06.37,Default,,0,0,0,,Just been told by my new\Nbest friend, Robert the Persian,
 Dialogue: 0,0:07:06.67,0:07:10.43,Default,,0,0,0,,if you go beyond 79th Street,\Nyou will definitely be murdered.
 Dialogue: 0,0:07:10.53,0:07:11.17,Default,,0,0,0,,Shot.
 Dialogue: 0,0:07:11.17,0:07:12.33,Default,,0,0,0,,Goodbye.
@@ -180,7 +180,7 @@ Dialogue: 0,0:08:51.83,0:08:53.96,Default,,0,0,0,,{\i1}Amazingly, the tip paid o
 Dialogue: 0,0:08:53.96,0:08:57.96,Default,,0,0,0,,{\i1}and I was the first to arrive at\Nour prearranged meeting point.{\i0}
 Dialogue: 0,0:08:59.71,0:09:01.96,Default,,0,0,0,,{\i1}The Miami Jai-Alai Stadium.{\i0}
 Dialogue: 0,0:09:09.63,0:09:13.96,Default,,0,0,0,,This is a Chevrolet Camaro, the RS model.
-Dialogue: 0,0:09:15.55,0:09:19.39,Default,,0,0,0,,Fivef-liter V8 engine, five-speed\Ngearbox, rear-wheel drive.
+Dialogue: 0,0:09:15.55,0:09:19.39,Default,,0,0,0,,Five-liter V8 engine, five-speed\Ngearbox, rear-wheel drive.
 Dialogue: 0,0:09:19.41,0:09:21.96,Default,,0,0,0,,A full-on American muscle car.
 Dialogue: 0,0:09:22.39,0:09:26.17,Default,,0,0,0,,Only three previous murderers,\Nand I only paid $800 for it.
 Dialogue: 0,0:09:26.63,0:09:30.49,Default,,0,0,0,,I am... It's a brilliant,\Nbrilliant, brilliant find.
@@ -206,7 +206,7 @@ Dialogue: 0,0:10:18.96,0:10:22.96,Default,,0,0,0,,I'd ask James on that one when
 Dialogue: 0,0:10:22.96,0:10:24.96,Default,,0,0,0,,It was the RS, the IROC Z...
 Dialogue: 0,0:10:25.23,0:10:26.45,Default,,0,0,0,,The RS was the...
 Dialogue: 0,0:10:26.45,0:10:27.96,Default,,0,0,0,,- Yes.\N- Yeah, and the Q was the...
-Dialogue: 0,0:10:27.96,0:10:29.33,Default,,0,0,0,,I'll keep quiet about it.
+Dialogue: 0,0:10:27.96,0:10:29.33,Default,,0,0,0,,I'll keep quiet about that one.
 Dialogue: 0,0:10:29.33,0:10:32.85,Default,,0,0,0,,But no, every single\Nthing on it works...
 Dialogue: 0,0:10:33.13,0:10:33.81,Default,,0,0,0,,nearly.
 Dialogue: 0,0:10:33.81,0:10:36.96,Default,,0,0,0,,- Oh, it's a manual.\N- Yeah, five on the floor, rear-wheel drive.
@@ -246,7 +246,7 @@ Dialogue: 0,0:12:08.96,0:12:10.83,Default,,0,0,0,,This has just been made out of
 Dialogue: 0,0:12:10.83,0:12:11.97,Default,,0,0,0,,It hasn't!
 Dialogue: 0,0:12:12.83,0:12:15.59,Default,,0,0,0,,- Ah!\N- It smells of bodies.
 Dialogue: 0,0:12:16.29,0:12:18.29,Default,,0,0,0,,- Oh, it does smell a bit ripe.\N- Hold on.
-Dialogue: 0,0:12:20.27,0:12:23.25,Default,,0,0,0,,There's the clothes of\Nthe last person that he killed!
+Dialogue: 0,0:12:20.27,0:12:23.25,Default,,0,0,0,,That's the clothes of\Nthe last person they killed!
 Dialogue: 0,0:12:23.26,0:12:24.19,Default,,0,0,0,,It is!
 Dialogue: 0,0:12:25.51,0:12:27.13,Default,,0,0,0,,Oh, my!
 Dialogue: 0,0:12:27.13,0:12:29.27,Default,,0,0,0,,Oh, God, no!
@@ -268,7 +268,7 @@ Dialogue: 0,0:13:06.29,0:13:07.37,Default,,0,0,0,,BOTH: Oh, yeah.
 Dialogue: 0,0:13:10.61,0:13:13.49,Default,,0,0,0,,CLARKSON: {\i1}To find out how good\Nour cars were, we were told{\i0}
 Dialogue: 0,0:13:13.50,0:13:16.96,Default,,0,0,0,,{\i1}to head to a racetrack\N90 miles north of Miami.{\i0}
 Dialogue: 0,0:13:17.83,0:13:20.96,Default,,0,0,0,,{\i1}There we'd be given a series of challenges.{\i0}
-Dialogue: 0,0:13:26.83,0:13:31.11,Default,,0,0,0,,I'm in a murderous muscle\Ncar heading through Miami.
+Dialogue: 0,0:13:26.83,0:13:31.11,Default,,0,0,0,,I'm in a murderer's muscle\Ncar heading through Miami.
 Dialogue: 0,0:13:32.69,0:13:33.87,Default,,0,0,0,,Yes!
 Dialogue: 0,0:13:33.96,0:13:37.45,Default,,0,0,0,,This is brilliant! I love pick-up trucks!
 Dialogue: 0,0:13:38.45,0:13:40.96,Default,,0,0,0,,It's... a Cadillac.
@@ -286,7 +286,7 @@ Dialogue: 0,0:14:27.96,0:14:30.96,Default,,0,0,0,,The rev counter, for example, 
 Dialogue: 0,0:14:30.96,0:14:34.39,Default,,0,0,0,,Then there's an alarming knocking\Nnoise from the front suspension
 Dialogue: 0,0:14:34.39,0:14:36.96,Default,,0,0,0,,when you go over a bump\Nor when you're on full lock.
 Dialogue: 0,0:14:38.65,0:14:40.96,Default,,0,0,0,,{\i1}The others, too, were finding problems.{\i0}
-Dialogue: 0,0:14:41.41,0:14:43.63,Default,,0,0,0,,Now we're alone here\Nas I could admit to one or two
+Dialogue: 0,0:14:41.41,0:14:43.63,Default,,0,0,0,,Now we're alone here\Nas I can admit to one or two
 Dialogue: 0,0:14:43.71,0:14:45.96,Default,,0,0,0,,very small faults with my Cadillac.
 Dialogue: 0,0:14:45.96,0:14:49.96,Default,,0,0,0,,The first is that squeak, which is a\Nloose belt or bearing or something.
 Dialogue: 0,0:14:49.96,0:14:52.96,Default,,0,0,0,,The other, it is\Nfantastically slow, this thing.
@@ -310,7 +310,7 @@ Dialogue: 0,0:15:59.53,0:16:04.33,Default,,0,0,0,,{\i1}It was time to settle dow
 Dialogue: 0,0:16:08.55,0:16:10.19,Default,,0,0,0,,God, Florida's awful.
 Dialogue: 0,0:16:11.59,0:16:13.25,Default,,0,0,0,,Nasty insects.
 Dialogue: 0,0:16:13.89,0:16:16.25,Default,,0,0,0,,Old people, fat people.
-Dialogue: 0,0:16:16.27,0:16:18.61,Default,,0,0,0,,A lot of people who all feed you cheese.
+Dialogue: 0,0:16:16.27,0:16:18.61,Default,,0,0,0,,A lot of people who all offer you cheese.
 Dialogue: 0,0:16:18.79,0:16:21.53,Default,,0,0,0,,"You want cheese with that?"\N"You want cheese with that?"
 Dialogue: 0,0:16:21.79,0:16:23.19,Default,,0,0,0,,And then shoot you.
 Dialogue: 0,0:16:30.65,0:16:34.99,Default,,0,0,0,,{\i1}While Hammond roasted,\NJames remained smug and cool.{\i0}
@@ -342,8 +342,8 @@ Dialogue: 0,0:18:11.37,0:18:12.17,Default,,0,0,0,,two,
 Dialogue: 0,0:18:12.17,0:18:13.07,Default,,0,0,0,,three,
 Dialogue: 0,0:18:13.47,0:18:14.43,Default,,0,0,0,,go!
 Dialogue: 0,0:18:17.11,0:18:18.99,Default,,0,0,0,,I was expecting... \N[imitates tire screeches]
-Dialogue: 0,0:18:22.77,0:18:25.39,Default,,0,0,0,,0-60 in 7.9 seconds.
-Dialogue: 0,0:18:27.67,0:18:29.96,Default,,0,0,0,,It can do 110 and he's doing that now.
+Dialogue: 0,0:18:22.77,0:18:25.39,Default,,0,0,0,,0-60 in 7.9 seconds.\N- Yeah, once.
+Dialogue: 0,0:18:27.67,0:18:29.96,Default,,0,0,0,,- It can do 110 and he's doing that now.
 Dialogue: 0,0:18:30.13,0:18:30.97,Default,,0,0,0,,- No more.
 Dialogue: 0,0:18:31.47,0:18:33.89,Default,,0,0,0,,- It's limited. It's electronically limited.
 Dialogue: 0,0:18:33.89,0:18:37.19,Default,,0,0,0,,- No, it's just naturally limited\Nto 110 because it's rubbish.
@@ -366,14 +366,14 @@ Dialogue: 0,0:19:30.23,0:19:31.01,Default,,0,0,0,,two,
 Dialogue: 0,0:19:31.01,0:19:31.87,Default,,0,0,0,,three,
 Dialogue: 0,0:19:31.87,0:19:32.69,Default,,0,0,0,,go!
 Dialogue: 0,0:19:33.69,0:19:34.96,Default,,0,0,0,,It's moved off!
-Dialogue: 0,0:19:35.51,0:19:36.96,Default,,0,0,0,,It's still moving!
+Dialogue: 0,0:19:35.51,0:19:36.96,Default,,0,0,0,,It's still moving off!
 Dialogue: 0,0:19:46.55,0:19:47.87,Default,,0,0,0,,24 days.
 Dialogue: 0,0:19:50.99,0:19:52.33,Default,,0,0,0,,I'm getting older.
 Dialogue: 0,0:19:56.77,0:19:57.95,Default,,0,0,0,,It looks fabulous!
 Dialogue: 0,0:19:57.97,0:20:00.71,Default,,0,0,0,,- C'mon, admit it looks good!\N- We've got plenty of time to admire it.
 Dialogue: 0,0:20:04.03,0:20:07.96,Default,,0,0,0,,{\i1}The Cadillac certainly seemed to\Nsuit Big Stig's relaxed driving style.{\i0}
 Dialogue: 0,0:20:11.41,0:20:14.39,Default,,0,0,0,, Look at that. On the grass.
-Dialogue: 0,0:20:14.51,0:20:18.96,Default,,0,0,0,,{\i1}But would the match made in heaven\Nbe able to beat the Camaros' 1:09?{\i0}
+Dialogue: 0,0:20:14.51,0:20:18.96,Default,,0,0,0,,{\i1}But would the match made in heaven\Nbe able to beat the Camaro's 1:09?{\i0}
 Dialogue: 0,0:20:20.03,0:20:21.63,Default,,0,0,0,,- Yay!\N- Go on.
 Dialogue: 0,0:20:21.63,0:20:22.79,Default,,0,0,0,,1:14.
 Dialogue: 0,0:20:22.87,0:20:25.71,Default,,0,0,0,,{\i1}So now it was all down\Nto Hammond's hillbilly mobile.{\i0}
@@ -434,12 +434,12 @@ Dialogue: 0,0:23:04.71,0:23:06.96,Default,,0,0,0,,Come on, come on,\Ncome on, I'
 Dialogue: 0,0:23:07.45,0:23:08.47,Default,,0,0,0,,Brake!
 Dialogue: 0,0:23:13.96,0:23:15.96,Default,,0,0,0,,Strewth! That had me worried.
 Dialogue: 0,0:23:15.96,0:23:17.96,Default,,0,0,0,,I should imagine he's clenched in there.
-Dialogue: 0,0:23:19.91,0:23:21.63,Default,,0,0,0,,Eight tons of caddy.
+Dialogue: 0,0:23:19.91,0:23:21.63,Default,,0,0,0,,Eight tons of Caddy.
 Dialogue: 0,0:23:22.41,0:23:24.01,Default,,0,0,0,,{\i1}I was really nervous.{\i0}
 Dialogue: 0,0:23:24.05,0:23:28.96,Default,,0,0,0,,{\i1}I'd just seen Big Stig try to\Nstop my truck and fail completely.{\i0}
 Dialogue: 0,0:23:31.07,0:23:32.77,Default,,0,0,0,,No way, it's 20.
 Dialogue: 0,0:23:33.67,0:23:35.96,Default,,0,0,0,,Here he comes to a certain death.
-Dialogue: 0,0:23:35.96,0:23:39.96,Default,,0,0,0,,40, 45, it takes 80.
+Dialogue: 0,0:23:35.96,0:23:39.96,Default,,0,0,0,,40, 45, it takes ages.
 Dialogue: 0,0:23:39.96,0:23:41.25,Default,,0,0,0,,Oh my God.
 Dialogue: 0,0:23:41.96,0:23:43.96,Default,,0,0,0,,Oh no!
 Dialogue: 0,0:23:43.96,0:23:47.96,Default,,0,0,0,,That is quite funny.
@@ -448,9 +448,9 @@ Dialogue: 0,0:23:50.11,0:23:50.96,Default,,0,0,0,,Are you alive?
 Dialogue: 0,0:23:50.96,0:23:51.96,Default,,0,0,0,,Alligators, mate.
 Dialogue: 0,0:23:51.96,0:23:52.96,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:23:54.53,0:23:57.15,Default,,0,0,0,,Shall I suggest we may\Nhave made them angry?
-Dialogue: 0,0:23:57.33,0:23:59.96,Default,,0,0,0,,I've just driven them\Ninto their living room.
-Dialogue: 0,0:23:59.96,0:24:01.96,Default,,0,0,0,,What an unsufferable oath.
-Dialogue: 0,0:24:02.41,0:24:04.21,Default,,0,0,0,,Oh, there's my pick-up lock.
+Dialogue: 0,0:23:57.33,0:23:59.96,Default,,0,0,0,,I've just driven in their-\Ninto their living room.
+Dialogue: 0,0:23:59.96,0:24:01.96,Default,,0,0,0,,Such an unsufferable oaf.
+Dialogue: 0,0:24:02.41,0:24:04.21,Default,,0,0,0,,Oh, there's my pick-up, look.
 Dialogue: 0,0:24:04.43,0:24:07.96,Default,,0,0,0,,{\i1}The cars had survived\Ntheir ordeal by track just...{\i0}
 Dialogue: 0,0:24:11.51,0:24:13.96,Default,,0,0,0,,{\i1}But the next morning, the real test began.{\i0}
 Dialogue: 0,0:24:17.25,0:24:21.96,Default,,0,0,0,,{\i1}A sweltering 800-mile\Nroad trip to New Orleans.{\i0}
@@ -463,12 +463,12 @@ Dialogue: 0,0:24:49.61,0:24:51.37,Default,,0,0,0,,- Well, yeah, but has it got p
 Dialogue: 0,0:24:51.53,0:24:52.96,Default,,0,0,0,,It could be broken.
 Dialogue: 0,0:24:52.96,0:24:54.61,Default,,0,0,0,,When did you last put petrol in it?
 Dialogue: 0,0:24:57.13,0:24:58.96,Default,,0,0,0,,- Miami.
-Dialogue: 0,0:25:00.13,0:25:01.96,Default,,0,0,0,,There you come to mention this.
+Dialogue: 0,0:25:00.13,0:25:01.96,Default,,0,0,0,,Now you come to mention it.
 Dialogue: 0,0:25:01.96,0:25:02.96,Default,,0,0,0,,- Stupid man!
 Dialogue: 0,0:25:02.96,0:25:04.96,Default,,0,0,0,,It's a five-litre V8.
 Dialogue: 0,0:25:04.96,0:25:05.96,Default,,0,0,0,,Sit down.
-Dialogue: 0,0:25:06.41,0:25:08.96,Default,,0,0,0,,- The car is fine. What's happened here?
-Dialogue: 0,0:25:10.03,0:25:11.96,Default,,0,0,0,,- I'm driving out of electricity again.
+Dialogue: 0,0:25:06.41,0:25:08.96,Default,,0,0,0,,- The car is fine. What's happened is...
+Dialogue: 0,0:25:10.03,0:25:11.96,Default,,0,0,0,,- Mine's run out of electricity again.
 Dialogue: 0,0:25:12.17,0:25:12.96,Default,,0,0,0,,- You're joking.
 Dialogue: 0,0:25:13.41,0:25:15.53,Default,,0,0,0,,- Can I borrow your van and the jump leads?
 Dialogue: 0,0:25:15.91,0:25:18.96,Default,,0,0,0,,- See how prepared we are on this show.
@@ -485,7 +485,7 @@ Dialogue: 0,0:25:40.43,0:25:42.96,Default,,0,0,0,,If you're thinking of coming\N
 Dialogue: 0,0:25:42.96,0:25:45.37,Default,,0,0,0,,You've got your Comfort Inn,\Nyou've got your Best Western
 Dialogue: 0,0:25:45.39,0:25:47.17,Default,,0,0,0,,you've got your Red Lobster where you eat.
 Dialogue: 0,0:25:47.61,0:25:51.96,Default,,0,0,0,,Everybody's very fat, everybody's\Nvery stupid, and everybody's very rude.
-Dialogue: 0,0:25:53.79,0:25:55.96,Default,,0,0,0,,It's not the holiday\Nprogramme, it's the truth.
+Dialogue: 0,0:25:53.79,0:25:55.96,Default,,0,0,0,,It's not the Holiday\Nprogramme, it's the truth.
 Dialogue: 0,0:25:57.47,0:25:59.27,Default,,0,0,0,,{\i1}Eventually, the leads were found,{\i0}
 Dialogue: 0,0:25:59.27,0:26:01.87,Default,,0,0,0,,{\i1}and Hammond positioned\Nhimself for the jump start.{\i0}
 Dialogue: 0,0:26:02.23,0:26:03.96,Default,,0,0,0,,MAY: No, it's not funny!
@@ -524,7 +524,7 @@ Dialogue: 0,0:27:48.17,0:27:49.96,Default,,0,0,0,,He's asking...
 Dialogue: 0,0:27:51.37,0:27:55.96,Default,,0,0,0,,He's asking another lorry driver where he\Nmight find a lady friend for the afternoon.
 Dialogue: 0,0:27:55.96,0:27:57.96,Default,,0,0,0,,[Radio chatter]
 Dialogue: 0,0:27:57.96,0:28:02.96,Default,,0,0,0,,All they've got to talk about on that CB\Nis the weather and prostitutes.
-Dialogue: 0,0:28:02.96,0:28:07.96,Default,,0,0,0,,"It's raining, I'm going north\Nand I'm looking for a hoover".
+Dialogue: 0,0:28:02.96,0:28:07.96,Default,,0,0,0,,"It's raining, I'm going north\Nand I'm looking for a hoo'er".
 Dialogue: 0,0:28:11.45,0:28:15.96,Default,,0,0,0,,CLARKSON: {\i1}As we headed northwest,\Nthe heat and humidity became unbearable.{\i0}
 Dialogue: 0,0:28:20.01,0:28:23.59,Default,,0,0,0,,You're sitting there in the winter,\Nyou can't imagine what it's like
 Dialogue: 0,0:28:23.71,0:28:26.79,Default,,0,0,0,,to be in an un-air-conditioned\Ncar in Florida now.
@@ -539,7 +539,7 @@ Dialogue: 0,0:28:49.29,0:28:50.96,Default,,0,0,0,,Yes, all right!
 Dialogue: 0,0:28:51.33,0:28:54.47,Default,,0,0,0,,CLARKSON: {\i1}But then,\Nthe smile was wiped from his face...{\i0}
 Dialogue: 0,0:28:54.75,0:28:55.96,Default,,0,0,0,,{\i1}again.{\i0}
 Dialogue: 0,0:29:02.23,0:29:03.96,Default,,0,0,0,,I brought you some presents.
-Dialogue: 0,0:29:03.96,0:29:06.96,Default,,0,0,0,,I've got you steak and cheese biscuit.
+Dialogue: 0,0:29:03.96,0:29:06.96,Default,,0,0,0,,I've got you a steak and cheese biscuit.
 Dialogue: 0,0:29:07.33,0:29:09.96,Default,,0,0,0,,- What?\N- And I've brought you a fan.
 Dialogue: 0,0:29:10.17,0:29:11.96,Default,,0,0,0,,- Really?\N- Yeah. We've got fans.
 Dialogue: 0,0:29:11.96,0:29:13.96,Default,,0,0,0,,- That's fantastic, mate!\N- How do you feel now?
@@ -554,10 +554,10 @@ Dialogue: 0,0:29:26.81,0:29:29.35,Default,,0,0,0,,- So it's the only thing that 
 Dialogue: 0,0:29:29.35,0:29:30.15,Default,,0,0,0,,- Yes.
 Dialogue: 0,0:29:30.67,0:29:35.19,Default,,0,0,0,,{\i1}After our Imitation American lunch, it\Nwas my turn to help the stricken Cadillac.{\i0}
 Dialogue: 0,0:29:38.53,0:29:39.96,Default,,0,0,0,,Oh, yes!
-Dialogue: 0,0:29:45.19,0:29:47.31,Default,,0,0,0,,Oh, I'm back in the sweat marks.
-Dialogue: 0,0:29:50.63,0:29:52.25,Default,,0,0,0,,{\i1\pos(974,656)}Intensive heat\Nwarnings continuing.{\i0}
+Dialogue: 0,0:29:45.19,0:29:47.31,Default,,0,0,0,,Oh, I'm back in the sweatbox.
+Dialogue: 0,0:29:50.63,0:29:52.25,Default,,0,0,0,,{\i1\pos(974,656)}Excessive heat\Nwarnings continuing.{\i0}
 Dialogue: 0,0:29:56.41,0:30:00.41,Default,,0,0,0,,Now, what that is doing is just\Nturbocharging warm air into my face.
-Dialogue: 0,0:30:15.27,0:30:16.21,Default,,0,0,0,,Nice.
+Dialogue: 0,0:30:15.27,0:30:16.21,Default,,0,0,0,,Nice one.
 Dialogue: 0,0:30:16.96,0:30:19.47,Default,,0,0,0,,Jeremy, this is Brokeback.
 Dialogue: 0,0:30:19.47,0:30:21.47,Default,,0,0,0,,Did you cut the wire?
 Dialogue: 0,0:30:26.67,0:30:30.09,Default,,0,0,0,,{\pos(426,680)\i1}You want your man to look good,\Nbut words like exfoliant scare him?{\i0}
@@ -571,7 +571,7 @@ Dialogue: 0,0:30:51.69,0:30:52.96,Default,,0,0,0,,No, no!
 Dialogue: 0,0:30:52.96,0:30:56.07,Default,,0,0,0,,{\i1}...Hammond and I could at least enjoy some refreshing showers{\i0}
 Dialogue: 0,0:30:56.25,0:30:57.96,Default,,0,0,0,,{\i1}while he got it going again.{\i0}
 Dialogue: 0,0:31:01.67,0:31:04.96,Default,,0,0,0,,{\i1}The Cadillac, however, was\Nnot the only trouble-maker.{\i0}
-Dialogue: 0,0:31:05.35,0:31:09.96,Default,,0,0,0,,{\i1}After just 200 miles, my Camaro\Nwas hardly tipped off either.{\i0}
+Dialogue: 0,0:31:05.35,0:31:09.96,Default,,0,0,0,,{\i1}After just 200 miles, my Camaro\Nwas hardly tip-top either.{\i0}
 Dialogue: 0,0:31:11.33,0:31:13.96,Default,,0,0,0,,Right, sit-rep on the Camaro.
 Dialogue: 0,0:31:13.96,0:31:15.83,Default,,0,0,0,,Some of the headlights are working,
 Dialogue: 0,0:31:16.26,0:31:18.96,Default,,0,0,0,,the dashboard has come off,\Nall the dials are broken,
@@ -606,7 +606,7 @@ Dialogue: 0,0:32:42.96,0:32:45.63,Default,,0,0,0,,OK, so you step into your car,
 Dialogue: 0,0:32:46.69,0:32:49.05,Default,,0,0,0,,and here, if you look, is a shower.
 Dialogue: 0,0:32:49.81,0:32:50.96,Default,,0,0,0,,- In your car?\N- Yep.
 Dialogue: 0,0:32:51.61,0:32:53.48,Default,,0,0,0,,- But where do you get the water from, then?
-Dialogue: 0,0:32:53.50,0:32:55.96,Default,,0,0,0,,- It comes from the cold box\Nin the back, this tube.
+Dialogue: 0,0:32:53.50,0:32:55.96,Default,,0,0,0,,- It comes from the cool box\Nin the back, this tube.
 Dialogue: 0,0:32:55.96,0:32:58.77,Default,,0,0,0,,And then you just plug this\Ninto the cigarette lighter,
 Dialogue: 0,0:32:58.99,0:33:00.96,Default,,0,0,0,,hit that button, refreshing shower.
 Dialogue: 0,0:33:01.01,0:33:02.59,Default,,0,0,0,,I bet you're jealous.
@@ -986,10 +986,10 @@ Dialogue: 0,0:55:58.03,0:56:01.35,Default,,0,0,0,,Rev counter - not good,\Nspeed
 Dialogue: 0,0:56:01.35,0:56:03.75,Default,,0,0,0,,fuel gauge - not good,
 Dialogue: 0,0:56:03.96,0:56:06.79,Default,,0,0,0,,Dent on the roof -\Nthat was caused by a cow,
 Dialogue: 0,0:56:06.79,0:56:11.09,Default,,0,0,0,,As far as driving it is concerned,\Nthe engine is brilliant.
-Dialogue: 0,0:56:11.09,0:56:13.29,Default,,0,0,0,,Gearbox -  tip top!
+Dialogue: 0,0:56:11.09,0:56:13.29,Default,,0,0,0,,Gearbox - tip top!
 Dialogue: 0,0:56:13.29,0:56:15.51,Default,,0,0,0,,It's a good car, it's all yours.
 Dialogue: 0,0:56:18.73,0:56:22.77,Default,,0,0,0,,{\i1}So, although it hadn't\Nbeen the most relaxing holiday,{\i0}
-Dialogue: 0,0:56:22.87,0:56:26.45,Default,,0,0,0,,{\i1}it had been a proper boy's own adventure.{\i0}
+Dialogue: 0,0:56:22.87,0:56:26.45,Default,,0,0,0,,{\i1}it had been a proper Boys' Own adventure.{\i0}
 Dialogue: 0,0:56:42.85,0:56:46.39,Default,,0,0,0,,{\i1}And what's more, we could go home\Nknowing that we'd done a little bit{\i0}
 Dialogue: 0,0:56:46.57,0:56:49.63,Default,,0,0,0,,{\i1}to help those\Nless fortunate than ourselves.{\i0}
 Dialogue: 0,0:56:50.96,0:56:52.69,Default,,0,0,0,,{\i1}Well, Richard and I could,{\i0}
